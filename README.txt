@@ -33,10 +33,10 @@ a single coordinate (as letter-number combination) as their target turn by turn.
 the opponent's "foggy field" at the top and their own field with ships at the bottom. Invalid coordinate calls are checked 
 and players are given the opportunity to correct their call.
 
-If the player's target is occupied by an opponent's ship, the fog lifts and shows as a cross mark in the opponent's field, and
-the player is informed of the hit ("You hit a ship!"). If all cells of an opponent's ship is shot, the player is informed that
-their opponent's ship is sunken ("You sank a ship!"). Otherwise, the player is informed that they missed and the target cell
-is represented by the character 'M' instead.
+If the player's target is occupied by an opponent's ship, the fog lifts and shows as a cross mark in the opponent's field, 
+and the player is informed of the hit ("You hit a ship!"). If all cells of an opponent's ship is shot, the player is 
+informed that their opponent's ship is sunken ("You sank a ship!"). Otherwise, the player is informed that they missed and 
+the target cell is represented by the character 'M' instead.
 
 After each target call, the grids reverses to the other player's view. The player is able to check the "hit marks" and "miss
 marks" left by their opponent in their own grid. 
