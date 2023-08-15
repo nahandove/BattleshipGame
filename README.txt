@@ -15,8 +15,8 @@ to place on a 10 x 10 grid:
 The grid is laid out with capital letter A - J as row and number 1 - 10 as columns. To deploy the ships, the players are
 asked to input their coordinates. The format consists of a capital number followed by the number, e.g. A1. The call for
 the start coordinates and the end coordinates are seperated by a space and the program parses the player response. The
-program parses the coordinate and inform the player if the coordinates are valid. Three error conditions are recognized
-and three different error messages are given, after which the player is given the opportunity to re-deploy the ship:
+program then informs the player if the coordinates are valid. Three error conditions are recognized and three different 
+error messages are possible, after which the player is given the opportunity to re-deploy the ship:
 
 1) The start and end coordinates are neither in the same row nor the same column.
 2) The coordinates do not fit the ship's length.
