@@ -38,7 +38,7 @@ and the player is informed of the hit ("You hit a ship!"). If all cells of an op
 informed that their opponent's ship is sunken ("You sank a ship!"). Otherwise, the player is informed that they missed and 
 the target cell is represented by the character 'M' instead.
 
-After each target call, the grids reverses to the other player's view. The player is able to check the "hit marks" and "miss
+After each target call, the grids reverse to the other player's view. The player is able to check the "hit marks" and "miss
 marks" left by their opponent in their own grid. 
 
 Once a player sinks all their opponent's ships, the player is congratulated with a winning message and declared the winner,
