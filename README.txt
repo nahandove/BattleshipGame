@@ -28,7 +28,7 @@ are represented by the water symbol '~'.
 
 The actual gameplay:
 
-The players cannot see their opponent#s ships (the ships are hidden by a "fog"). The program prompts the player to call out
+The players cannot see their opponent's ships (the ships are hidden by a "fog"). The program prompts the player to call out
 a single coordinate (as letter-number combination) as their target turn by turn. The field is displayed on the console with 
 the opponent's "foggy field" at the top and their own field with ships at the bottom. Invalid coordinate calls are checked 
 and players are given the opportunity to correct their call.
